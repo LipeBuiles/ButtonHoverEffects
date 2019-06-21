@@ -6,7 +6,6 @@ body{
     margin: 0%;
     padding: 0%;
 }
-
 a{
     border: 2px solid white;
     color: white;
@@ -19,11 +18,9 @@ a{
     text-transform: uppercase;
     transition: 1.0s;
 }
-
 a:hover{
     color: purple;
 }
-
 a:before{
     background: purple;
     content: '';
